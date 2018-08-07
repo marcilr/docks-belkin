@@ -1,0 +1,57 @@
+README
+Created Thu Aug  3 09:13:20 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+amazon-20170811.txt
+  Amazon order for adaptors needed for the Belkin:
+
+  1x DisplayPort to DVI
+  2x USB-C to DVI
+     One from Belkin and one from laptop
+
+apple-chat-20170804.txt
+  Chat with Apple discussing Belkin Thunderbolt 3 Express Dock HD purchase.
+
+Belkin-order-20170804.txt
+  Belkin Thunderbolt 3 Express Dock HD
+  price: $349.95 (Thu Aug 3, 2017)
+
+belkin-return-20170810.txt
+  Belkin return of 2x Mini DisplayPort to DVI Adapters.
+
+details.txt
+  Product Details
+  Belkin Thunderbolt 3 Express Dock HD
+  price: $329.99 (Thu Aug 3, 2017)
+  https://www.cdw.com/shop/products/Belkin-Thunderbolt-3-Express-Dock-HD/4671585.aspx?cm_cat=google&cm_ite=4671585&cm_pla=NA-NA-Belkin_LA&cm_ven=acquirgy&ef_id=WCzqkQAAAbUlfuFq:20170803173434:s&gclid=CjwKCAjwk4vMBRAgEiwA4ftLsyx0xFxRBJBbA_wTbr9tRhZ7rary11Hag6HpKbvVj3Cp0HInZkNh3BoCSTYQAvD_BwE&s_kwcid=AL!4223!3!76209655339!b!!g!!belkin%20thunderbolt%203%20express%20dock%20hd#PO
+
+docs/
+  Documentation
+
+install.txt
+  Installation of Belkin Thunderbolt 3 Express Dock HD at GCI AOC
+  (old ADN) building with MacBook Pro 2016, 24" Dell display,
+  and two 24" Asus displays at GCI AOC (old ADN building).
+
+links.txt
+  Belkin Thunderbolt 3 Express Dock HD related links
+
+Mini-DisplayPort-to-DVI-Adaptor.txt
+  Mini DisplayPort to DVI Adaptor
+
+orders/
+  Dock related orders
+
+pdf/
+  Portable Document Format files
+
+pics/
+  Pictures
+
+Thunderbolt-3-Express-Dock-HD.txt
+  Belkin Thunderbolt 3 Express Dock HD
+  price: $349.95
+  https://www.apple.com/shop/product/HKQ12VC/A/belkin-thunderbolt-3-express-dock-hd?afid=p238%7CsLXTwavx4-dc_mtid_1870765e38482_pcrid_52243358770_&cid=aos-us-kwgo-pla-btb-all--slid--product-HKQ12VC/A
