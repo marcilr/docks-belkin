@@ -1,0 +1,92 @@
+belkin-return-20170810.txt
+Created Thu Aug 10 10:55:38 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Belkin return of 2x Mini DisplayPort to DVI Adapter 
+
+
+
+Thu Aug 10 10:55:38 AKDT 2017
+=============================
+Ouch found the the USB-C port are *not* Mini DisplayPort.
+The two Belkin adaptors I ordered are Mini Displayport to
+DVI.
+
+1. Opened:
+  Returns and Claims
+  https://www.belkin.com/us/support/returns
+
+2. At  RETURNS & CLAIMS
+
+1 WHAT PRODUCT DO YOU WANT TO RETURN?
+-------------------------------------
+  THUNDERBOLT 3 DOCK,W/1.0 M CABLE
+  F4U095
+  price:    $341.02
+  quantity: 1
+  subtotal: $341.02
+  reason:   Defective/Does not work properly
+
+x ADAPTER,MINI DISPLAYPORT-M/DVI-F
+  F2CD051b
+
+  price:    $19.48
+  quantity: 2
+  subtotal: $38.96
+  Reason:   Defective/Does not work properly
+
+2 BILLING INFORMATION
+---------------------
+CREDIT CARD INFORMATION YOU WILL RECEIVE YOUR REFUND ON.
+  Billing Address
+  Raymond Marcil
+  706 East 73rd Avenue
+  Unit 1
+  Anchorage, 99518
+  907-351-7514
+
+Originally put on boa
+
+click Submit
+
+3. RETURN INSTRUCTIONS
+  1. Print this return receipt
+
+  2. Pack the product into a shipping box with adequate packing material.
+     Place this return receipt in the box
+
+  3. Send To:
+     RW# RX00687040
+     Belkin International, Inc.
+     Attn : Returns Department
+     558 Airtech Parkway
+     Plainfield, IN 46168
+     United States
+
+  RETURN ORDER #RX00687040
+  Thu Aug 10 12:03:24 PDT 2017
+
+
+Original order
+==============
+Belkin order for Thunderbolt 3 Express Dock HD
+and two Mini DisplayPort to DVI Adapters.
+
+Order number: #EC04528986   (Aug 4, 2017 Belkin email)
+
+Thunderbolt 3 Express Dock HD                 $349.99
+  P/N: F4U095
+
+Mini DisplayPort to DVI Adapter    2x $19.99 = $39.98
+
+Premium - 2 business day shipping               $0.00
+Sales Tax                                       $0.00
+                                     ----------------
+                                     Total:   $379.98
+
+
+Links
+=====
+Returns and Claims
+https://www.belkin.com/us/support/returns
