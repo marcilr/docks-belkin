@@ -1,0 +1,73 @@
+details.txt
+Created Thu Aug  3 09:36:44 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Product Details
+
+
+1. BRIDGE THE GAP
+With speeds of 40Gbps, the Thunderbolt 3 Express Dock HD has twice
+the speed of Thunderbolt 2 (20 Gbps) and is 8x faster than USB 3.0
+(5 Gbps).  That means you can transfer a 4K movie in under 30 seconds!
+Our dock provides up to 85W of power to your computer which allows
+you to power your computer & connect to all your peripherals with a
+single cable. Have more than one 4K display?  This dock supports
+dual 4K displays (DisplayPort and Thunderbolt 3 (USB-C) for the
+ultimate monitor experience.  Thunderbolt 3 merges performance and
+simplicity making the Thunderbolt 3 Express Dock HD the true
+all-in-one docking solution.
+
+2. POWER HITTER
+The Thunderbolt 3 Express Dock HD has some serious power.  Delivering
+85W of power upstream to your computer means you’ll never need an
+extra power supply.
+
+3. NO SPEED LIMIT
+40 Gbps data transfer rates is fast enough for whatever you plug in.
+You’ll maintain full speed even when fully loaded and running multiple
+peripherals at once.  You can transfer 3 hours of 4K action camera
+footage in less than a minute.
+
+That's 8x faster than USB 3.0. With the Belkin Thunderbolt 3 Express
+Dock HD, your need for speed has been satisfied.
+
+4. ONE DOCK, ONE CABLE, ONE LOVE
+Connect and power with a single cable.  Now, one compact port provides
+Thunderbolt 3 data transfer rates and optimum notebook charging with a
+single cable.  Daisy chain up to 5 additional Thunderbolt devices from
+the dock.  Compatible with Thunderbolt 3 (USB-C) enabled Mac running
+Mac OS Sierra or later.  Please note that the Thunderbolt 3 Express
+Dock HD is not PC compatible.                                            <===
+
+5. DUAL 4K VIDEO OUTPUT
+For a more immersive experience with life-like detail and rich, vivid
+colors, the Thunderbolt 3 Express Dock HD supports dual 4K displays,
+from both the DisplayPort and the Thunderbolt 3 ports.  (Compatible
+with USB-C video adapters such as HDMI, VGA, etc.)
+
+At A Glance:
+o Connect 8 separate devices through a single Thunderbolt cable
+o True single-cable docking solution
+o Dual 4K video output (Display Port, Thunderbolt 3 (USB-C)
+
+o Included 170W power adapter (included) provides enough power to
+  support attached peripherals while delivering up to 85W of power
+  to your computer through the Thunderbolt 3 cable (included)
+
+o Daisy chain up to 5 Thunderbolt devices from the dock
+
+Package Includes:
+o Belkin Thunderbolt 3 Express Dock HD
+o 1.64-foot / .5 meter Belkin Thunderbolt 3 Cable
+
+o Power Adapter
+--cdw.com
+
+
+Links
+=====
+Product Details
+Belkin Thunderbolt 3 Express Dock HD
+price: $329.99 (Thu Aug 3, 2017)
+https://www.cdw.com/shop/products/Belkin-Thunderbolt-3-Express-Dock-HD/4671585.aspx?cm_cat=google&cm_ite=4671585&cm_pla=NA-NA-Belkin_LA&cm_ven=acquirgy&ef_id=WCzqkQAAAbUlfuFq:20170803173434:s&gclid=CjwKCAjwk4vMBRAgEiwA4ftLsyx0xFxRBJBbA_wTbr9tRhZ7rary11Hag6HpKbvVj3Cp0HInZkNh3BoCSTYQAvD_BwE&s_kwcid=AL!4223!3!76209655339!b!!g!!belkin%20thunderbolt%203%20express%20dock%20hd#PO
