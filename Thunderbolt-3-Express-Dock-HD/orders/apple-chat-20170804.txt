@@ -1,0 +1,82 @@
+apple-chat-20170804.txt
+Created Fri Aug  4 17:42:57 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Chat with Apple discussing Belkin Thunderbolt 3 Express Dock HD purchase.
+
+
+Belkin Thunderbolt 3 Express Dock HD
+price: $349.95 (Thu Aug 4, 2017)
+
+
+Now Chatting with Apple
+
+Welcome to Apple.
+What can we do for you today?
+
+Would you like to continue the chat?
+
+Hi I have a 2016 MacBook Pro that I am looking to connect to
+two ASUS 24" displays that are currently attached to a PC
+(to be deprecated) using DVI cables.  What adapters would
+I need to connect the two displays to the MacBook Pro with
+the Thunderbolt 3 Express Dock HD?
+
+Please wait while I connect you with an Apple Specialist.
+
+Now Chatting with Ron
+
+Hi, my name is Ron. You’ve reached Apple!
+
+I will do my best to assist you look for an adaptor!
+Give me one moment please.
+
+Thanks
+
+View Shared Items
+
+I thought the Thunderbolt 3 only had one DisplayPort.
+i.e. Not a mini DisplayPort.
+
+Since you have a newer MacBook Pro, the mini display
+port is actually the Thunderbolt port.  You can plug
+any mini display port connector into the Thunderbolt
+port.
+
+Apple has the same port for mini display port and the thunderbolt 3.
+
+Now understand what I was missing. Many thanks for the clear explanation.
+
+Perfect! Are you planning to buy this today? Actually, I can wait while
+you complete it just to make sure all questions will be answered.
+Sound good?
+
+Yes, sounds good. Hold on a minute or two.
+
+Not a problem. Go ahead. Take your time. I don’t mind waiting.
+
+I was got into checkout and was prompted for my apple id.
+Entered my email marcilr@gmail.com and clicked the I forgot link.
+Can you expedite or should I just wait for response email?
+
+I see where you are coming from. You will need to wait for the
+email confirmation since we do not have any access to your account
+for security purposes.
+
+Will do. As they say patience is a virtue:)
+
+Definitely! Let me know if you have any clarifications.
+
+Just checking in, were you able to receive the reset password email?
+
+Did not see it come in. Was going to select continue as guest.
+
+You can also choose that option and link the order once you get to
+reset your password at a later time.
+
+Were you able to complete your order?
+
+Yes, in good shape. Thanks for your help. Bye for now.
+
+Awesome! Thank you as well for choosing Apple! You have a nice day!
