@@ -1,0 +1,95 @@
+links.txt
+Created Thu Aug  3 09:14:27 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Thunderbolt 3 Express Dock HD related links
+
+
+Links
+=====
+Mini DisplayPort to DVI Adapter
+price: $29.00
+https://www.apple.com/shop/product/MB570LL/B/mini-displayport-to-dvi-adapter
+
+Belkin Displayport to DVI Adapter
+Item number: F2CD005b
+Hardware Platform: PC
+o Connect your DisplayPort equipped computer to DVI Monitor or Projector
+o Plug & play
+o Connector(s): 1 x 20 pin DisplayPort - male
+o Connector(s) (Other Side): 1 x 24 pin digital DVI - female
+"This device does not work with macbook pros connecting to
+dell monitors.  I have tried with a 2010 version and 2014
+version that has extend display options.  Customer service
+was also very unhelpful the two times I called trying to
+resolve this issue."
+price: $11.9p
+https://www.amazon.com/Belkin-Displayport-to-DVI-Adapter/dp/B001P3OGDS/ref=sr_1_1?ie=UTF8&qid=1501890144&sr=8-1&keywords=Belkin+Displayport+to+DVI+Adapter
+
+Belkin Support Article
+http://www.belkin.com/us/support-article?articleNum=80153
+
+Belkin Thunderbolt 3 Express Dock HD
+print: $349.95 (Thu Aug 3, 2017)
+https://www.apple.com/shop/product/HKQ12VC/A/belkin-thunderbolt-3-express-dock-hd?afid=p238%7CsLXTwavx4-dc_mtid_1870765e38482_pcrid_52243358770_&cid=aos-us-kwgo-pla-btb-all--slid--product-HKQ12VC/A
+
+details.txt
+Product Details
+Belkin Thunderbolt 3 Express Dock HD
+price: $329.99 (Thu Aug 3, 2017)
+https://www.cdw.com/shop/products/Belkin-Thunderbolt-3-Express-Dock-HD/4671585.aspx?cm_cat=google&cm_ite=4671585&cm_pla=NA-NA-Belkin_LA&cm_ven=acquirgy&ef_id=WCzqkQAAAbUlfuFq:20170803173434:s&gclid=CjwKCAjwk4vMBRAgEiwA4ftLsyx0xFxRBJBbA_wTbr9tRhZ7rary11Hag6HpKbvVj3Cp0HInZkNh3BoCSTYQAvD_BwE&s_kwcid=AL!4223!3!76209655339!b!!g!!belkin%20thunderbolt%203%20express%20dock%20hd#PO
+
+DisplayPort 1.2
+This is the port the Belkin Thunderbolt 3 Express Dock HD dock has
+https://en.wikipedia.org/wiki/DisplayPort
+
+Features
+Main Features
+Belkin Thunderbolt 3 Express Dock HD
+price: $329.99 (Thu Aug 3, 2017)
+https://www.cdw.com/shop/products/Belkin-Thunderbolt-3-Express-Dock-HD/4671585.aspx?cm_cat=google&cm_ite=4671585&cm_pla=NA-NA-Belkin_LA&cm_ven=acquirgy&ef_id=WCzqkQAAAbUlfuFq:20170803173434:s&gclid=CjwKCAjwk4vMBRAgEiwA4ftLsyx0xFxRBJBbA_wTbr9tRhZ7rary11Hag6HpKbvVj3Cp0HInZkNh3BoCSTYQAvD_BwE&s_kwcid=AL!4223!3!76209655339!b!!g!!belkin%20thunderbolt%203%20express%20dock%20hd#PO
+
+Frequently Asked Questions
+Belkin Thunderbolt 3 Express Dock HD, F4U095
+1.  How do I connect two monitors?
+    To connect two monitors, follow the steps below:
+    Step 1:
+      Plug one monitor into the DisplayPort™.
+    Step 2:
+      Plug the other monitor into the Thunderbolt 3 (USB-C port)
+      using either a USB-C cable if your monitor supports it or any adapter.
+6. Does the Belkin F4U095 support dual 4K video output?
+   Yes.  It supports dual 4K displays from both the DisplayPort
+   and the Thunderbolt 3 (USB-C) ports.
+Still a bit of ambiguity as to whether use od 2x USB-C for displays would
+work.
+http://www.belkin.com/uk/support-article?articleNum=216428
+
+Frequently asked questions about using HDMI with Mac computers
+No DisplayPort 1.2 here.
+https://support.apple.com/en-us/HT204388
+
+Getting to know the Belkin Thunderbolt 3 Express Dock HD with Cable, F4U095
+http://www.belkin.com/uk/support-article?articleNum=216427
+
+Mac Accessoris
+Power & Cables
+https://www.apple.com/shop/mac/mac-accessories/power-cables
+
+Product Support
+http://www.belkin.com/uk/support-product?pid=01t34000004BdX7AAK
+
+Review: Belkin's $350 Thunderbolt 3 Express Dock HD Looks Great, but Could Use More Ports
+Friday June 2, 2017 12:44 PM PDT by Eric Slivka
+https://www.macrumors.com/review/belkin-thunderbolt-3-express-dock-hd/
+
+USB Type-C and Thunderbolt 3: One port to connect them all
+CNET editor Dong Ngo explains USB-C and Thunderbolt 3 and
+the significance of these peripheral standards.
+Great chart showing Thunderbolt revisions vs. DisplayPort <===
+https://www.cnet.com/how-to/usb-type-c-thunderbolt-3-one-cable-to-connect-them-all/
+
+1. What should I do if I want to return my product?
+http://www.belkin.com/us/support-article?articleNum=80153
+
