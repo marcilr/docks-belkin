@@ -1,0 +1,146 @@
+Thunderbolt-3-Express-Dock-HD.txt
+Created Thu Aug  3 09:15:42 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Belkin Thunderbolt 3 Express Dock HD
+
+
+make:           Belkin
+model:          Thunderbolt 3 Express Dock HD
+                F4U095 (from chassis)
+serial no.:     0013F20170011810 (from chassis)
+size:           8.17" wide x 3.4" deep x 1.2" high
+                --macrumors.com/
+designed in:    California (from chassis)
+assembled in:   China (from chassis)
+ordered:        Fri Aug 04, 2017
+delivered:      Wed Aug 09, 2017
+price:          $349.95 (Thu Aug 3, 2017)
+
+
+In the box
+==========
+o Belkin Thunderbolt 3 Express Dock HD
+o 3.3-foot / 1-meter Belkin Thunderbolt 3 Cable
+o Power Adapter
+  make:     Liteon
+  model:    PA-1171-72
+  input:    100-240V ~2.5A 50-60Hz
+  output:   20V 8.5A   
+  s/n:      117172QFD17030145830A
+o Power cable (proprietary) for Liteon power adapter
+ 
+
+Ports
+=====
+From inspection of device day after delivery.
+
+Front (from left to right as viewed from front):
+  1x Connection Status led
+  1x USB-A 3.0
+  1x Audio Out
+  
+
+Back (from left to right as viewed from back):
+  1x Gigabit Ethernet
+  1x Audio Out
+  2x USB-A 3.0
+  2x Thunderbolt 3 (USB-C)
+  1x DisplayPort
+  1x Power (DC IN 20V 8.5A
+
+NOTE: For a more immersive experience with life-like detail and rich,
+      vivid colors, the Thunderbolt 3 Express Dock HD supports
+      dual 4K displays, from both the DisplayPort and the
+      Thunderbolt 3 ports. (Compatible with USB-C video adapters such
+      as HDMI, VGA, etc.)
+      --www.belkin.com/us/p/P-F4U095-APL/
+
+
+Features
+========
+Three USB-A 3.0
+Two Thunderbolt 3 (USB-C)
+One Gigabit ethernet
+One DisplayPort 1.2 (has connector with angled corner)
+Audio port (IN / OUT)
+Audio port (OUT)
+One Thunderbolt 3 cable
+170 W Power Adapter
+Supports Ghost Charging*
+Dual 4K video output (DisplayPort, Thunderbolt 3 (USB-C))
+85 W Power Delivery (PD) powers your computer through
+  .5 m Thunderbolt (40 Gbps) cable
+2-Year Limited Warranty
+--www.belkin.com/uk/support-article?articleNum=216427
+
+
+Lights Behavior
+===============
+Connection Status – Light indicator in front of the express dock
+o Green if host device is plugged-in correctly
+o Orange if nothing is plugged in
+--www.belkin.com/uk/support-article?articleNum=216427
+
+
+Package Inclusions
+==================
+Belkin Thunderbolt Express Dock HD
+Belkin Thunderbolt 3 Cable
+Power Adapter
+--www.belkin.com/uk/support-article?articleNum=216427
+
+
+*Ghost Charging means that even if the dock is not
+connected to the host (computer) but it is plugged
+in with the power supply unit, it will still provide
+power to charge through the USB ports.
+--www.belkin.com/uk/support-article?articleNum=216427
+
+
+Thu Aug 10 09:00:38 AKDT 2017
+=============================
+Took the Belkin Thunderbolt 3 Express Dock HD into work
+at GCI's AOC to hookup and test with MacBook Pro (2016),
+one 24" Dell display and two 24" Asus displays.
+
+Ouch found the the USB-C port are *not* Mini DisplayPort.
+The two Belkin adaptors I ordered are Mini Displayport to
+DVI.
+
+I Still need to get:
+  1x USB-C to DVI
+    Like: Cable Matters USB-C to DVI Adapter in Black
+          (Incompatible with Apple Cinema Displays)
+          Also says:
+            USB-C & THUNDERBOLT 3 port compatible with
+            with the 2015/16 MacBook, 2016 / 2017 MacBook Pro
+            and iMac, ... 
+          price: $17.99 (amazon prime - Aug 10, 2017)
+
+  1x DisplayPort to DVI
+    Like: Cable Matters Gold Plated DisplayPort to DVI Cable, 6 Feet
+          price: $11.99 (amazon prime - Thu Aug 10, 2017)
+          
+
+Using one USB-C to connect to the MacBook Pro (2016)
+
+
+
+Links
+=====
+Thunderbolt 3 Express Dock HD with 3.3-ft /1-m Cable   <===
+model: F4U095
+http://www.belkin.com/us/p/P-F4U095-APL/
+
+Belkin Thunderbolt 3 Express Dock HD
+price: $349.95 (Thu Aug 3, 2017)
+https://www.apple.com/shop/product/HKQ12VC/A/belkin-thunderbolt-3-express-dock-hd?afid=p238%7CsLXTwavx4-dc_mtid_1870765e38482_pcrid_52243358770_&cid=aos-us-kwgo-pla-btb-all--slid--product-HKQ12VC/A
+
+Getting to know the Belkin Thunderbolt 3 Express Dock HD with Cable, F4U095
+http://www.belkin.com/uk/support-article?articleNum=216427
+
+Review: Belkin's $350 Thunderbolt 3 Express Dock HD Looks Great, but Could Use More Ports
+Friday June 2, 2017 12:44 PM PDT by Eric Slivka
+https://www.macrumors.com/review/belkin-thunderbolt-3-express-dock-hd/
