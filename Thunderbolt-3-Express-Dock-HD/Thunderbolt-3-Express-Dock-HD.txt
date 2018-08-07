@@ -1,0 +1,38 @@
+Thunderbolt-3-Express-Dock-HD.txt
+Created Tue Aug  7 10:33:18 AKDT 2018
+by Raymond E. Marcil <rmarcil@gci.com>
+
+
+Thunderbolt 3 Express Dock HD with 3.3-ft /1-m Cable
+(F4U095ttAPL)
+
+
+Key Features
+============
+1. Gigabit Ethernet
+2. Audio Out
+3. 2x USB-A 3.0
+4. 2x Thunderbolt 3 (USB-C)
+5. DisplayPort
+6. Power
+7. Connection Status 8. USB-A 3.0
+9. Audio Out
+
+
+At A Glance
+===========
+o Connect 8 separate devices through a single Thunderbolt cable
+o True single-cable docking solution
+o Dual 4K video output (Display Port, Thunderbolt 3 (USB-C)
+o Included 170W power adapter (included) provides enough power
+  to support attached peripherals while delivering up to 85W
+   of power to your computer through the Thunderbolt 3 cable (included)
+o Daisy chain up to 5 Thunderbolt devices from the dock
+
+
+Package Includes
+================
+Belkin Thunderbolt 3 Express Dock HD 
+with 3.3-foot / 1-meter Belkin Thunderbolt 3 Cable Power Adapter
+
+--pdf/Belkin-Thunderbolt-3-Express-Dock-HD.pdf, p. 8
