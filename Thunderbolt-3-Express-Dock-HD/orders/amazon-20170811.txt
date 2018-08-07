@@ -1,0 +1,70 @@
+amazon-20170811.txt
+Created Fri Aug 11 10:48:55 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Amazon order for adaptors needed for the Belkin:
+
+1x DisplayPort to DVI
+2x USB-C to DVI
+   One from Belkin and one from laptop
+
+Cable Matters USB-C to DVI Adapter in Black  2x $17.99 = $35.98
+Cable Matters USB-C to DVI Adapter in Black           1x $20.99 
+  6 Feet (2-pack)                               
+Shipping and handling                                     $0.00
+  Estimated delivery:
+  Aug. 17, 2017 - Aug. 23, 2017
+                                                ---------------
+                                                Total:   $56.97
+
+
+Thank you, your order has been placed.
+An email confirmation has been sent to you. 
+New! Get shipment notifications on your mobile device with the free Amazon app.
+
+Order Number: 113-1535562-9200242
+3 items will be shipped to Raymond Marcil by Amazon.com. 
+Estimated delivery: Aug. 17, 2017 - Aug. 23, 2017
+
+
+
+Cable Matters USB-C to DVI Adapter in Black
+(Incompatible with Apple Cinema Displays)
+"USB-C & THUNDERBOLT 3 port compatible with
+ with the 2015/16 MacBook, 2016 / 2017 MacBook Pro
+ and iMac,..."
+Package Dimensions:   5.4 x 3 x 0.5 inches
+Item Weight:          0.3 ounces
+Shipping Weight:      0.3 ounces (View shipping rates and policies)
+Manufacturer:         Cable Matters
+ASIN:                 B012B58JRM
+Item model number:    201019-BLK
+Color:                Black
+price: $17.99 (amazon prime - Fri Aug 11, 2017)
+
+
+Cable Matters Gold Plated DisplayPort to DVI Cable, 6 Feet
+Brand Name:                  Cable Matters
+Item model number:           102004-6
+Item Weight:                 5.6 ounces
+Product Dimensions:          10 x 6.1 x 1.9 inches
+Item Dimensions L x W x H:   10 x 6.1 x 1.9 inches
+Color:                       Black
+Video resolution up to 1920 x 1200 @ 60 Hz
+Includes HD 1080p and below
+Rated: 4.5 of 5 stars
+price: $11.99 (amazon prime - Fri Aug 11, 2017)
+
+
+Links
+=====
+Cable Matters USB-C to DVI Adapter in Black
+(Incompatible with Apple Cinema Displays)
+price: $17.99 (amazon prime - Aug 11, 2017)
+https://www.amazon.com/Cable-Matters-Adapter-Incompatible-Displays/dp/B012B58JRM/ref=sr_1_6?ie=UTF8&qid=1502477564&sr=8-6&keywords=usb-c+to+dvi+adapter+cable
+
+The complete guide to living a newfangled USB-C (and Thunderbolt 3) lifestyle
+Finding good, safe cables and accessories takes more work than you'd think.
+ANDREW CUNNINGHAM - 11/8/2016, 12:35 PM
+https://arstechnica.com/gadgets/2016/11/the-complete-guide-to-living-a-new-fangled-usb-c-and-thunderbolt-3-lifestyle/
