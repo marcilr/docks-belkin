@@ -1,0 +1,41 @@
+Mini-DisplayPort-to-DVI-Adaptor.txt
+Created Thu Aug 10 09:32:46 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Mini DisplayPort to DVI Adaptor
+
+
+The Mini DisplayPort to DVI Adaptor let you connect an advanced
+digital monitor, such as the 20-or 23-inch Apple Cinema Display
+to a MacBook, MacBook Pro, or MacBook Air with a Mini DisplayPort
+
+make: Belkin
+descriptiON: Mini DisplayPort To DVI Adapter
+p/n:         F2CD051b
+cable ends:  M/F
+video:       1080p
+made in:     China
+
+ordered      Fri Aug 04, 2017
+delivered:   Wed Aug 09, 0217
+price:       $19.99
+             2x $19.99 = $39.98 (Fri Aug 04, 2017)
+
+Ports
+=====
+1x Mini DisplayPort
+1x DVI
+
+
+Thu Aug 10 09:32:46 AKDT 2017
+=============================
+On my August 4, 2017 Belkin order I ordered two Mini DisplayPort to DVI Adaptor
+for use on the two Thunderbolt 3 (USB-C) connectors on the back of the
+Belkin Thunderbolt 3 Express Dock HD.
+
+Error in thinking as one of the two Thunderbolt 3 (USB-C) connectors
+on the back of the Belkin Thunderbolt 3 Express Dock HD must be used
+to connect to the MacBook Pro 2016.
+
+i.e. Still need to get a Belkin 
