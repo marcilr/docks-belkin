@@ -1,0 +1,57 @@
+history.txt
+Created Tue Aug  7 10:06:09 AKDT 2018
+by Raymond E. Marcil <rmarcil@gci.com>
+
+
+Thunderbolt-3-Express-Dock-HD order history
+
+
+Fri Aug 11 10:48:55 AKDT 2017
+=============================
+Amazon order for adaptors needed for the Belkin:
+
+1x DisplayPort to DVI
+2x USB-C to DVI
+   One from Belkin and one from laptop
+
+Cable Matters USB-C to DVI Adapter in Black          2x $17.99 = $35.98
+Cable Matters USB-C to DVI Adapter in Black 6 Feet (2-pack)   1x $20.99
+                                                        ---------------
+                                                        Total:   $56.97
+
+Thu Aug 10 12:03:24 PDT 2017
+============================
+Returned the 2x Mini DisplayPortTM To DVI Adapter, M/F, 1080p (F2CD051b)
+                                            Return:   2x $19.48 = $38.96
+
+Return letter:
+
+Find enclosed two Mini DisplayPort to DVI Adapters to be returned.
+These are were purchased for $19.99 apiece for a total of $39.98
+on August 4, 2017. These adapters were incompatible and did not
+work for the desired use.
+
+Send To:
+  Belkin International, Inc.
+  Attn : Returns Department
+  558 Airtech Parkway
+  Plainfield, IN 46168
+  United States
+
+  RW# RX00687040
+
+
+Fri Aug 04 18:22:05 PDT 2017
+============================
+Belkin Order #EC04528986
+
+1x ThunderboltTM 3 Express Dock HD                             $349.99
+   with 3.3-Ft /1-M Cable
+   (F4U095ttAPL)
+
+2x Mini DisplayPortTM To DVI Adapter, M/F, 1080p    2x $19.99 = $39.98
+   (F2CD051b)            Free Ground Shipping on Orders of $50 or More
+                                                   Promotion:   -$9.99
+                                                      ----------------
+                                                      Total:   $379.98
+
